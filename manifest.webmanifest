@@ -1,0 +1,24 @@
+{
+ "name": "Lab de Física y Química",
+ "short_name": "FyQ",
+ "description": "Repaso de Física y Química 2.º ESO, Unit 2: matter, density, states of matter and gas laws.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "lang": "es",
+ "background_color": "#f7f4ef",
+ "theme_color": "#0f5e63",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
